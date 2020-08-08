@@ -51,4 +51,4 @@ def port_scan(target):
 options = get_arguments()
 scan_result = scan(options.target)
 print_result(scan_result)
-# port_scan(options.target)
+
